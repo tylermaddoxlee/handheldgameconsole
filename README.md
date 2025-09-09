@@ -6,7 +6,7 @@ This project was inspired by Leandro Linares' DIY Handheld Game Console : https:
 Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).  
 
 ## Features 
-- Custom 3D-printed enclosure with integrated 5" display and PiSugar 2 Pro battery  
+- 3D-printed enclosure with integrated 5" display and PiSugar 2 Pro battery  
 - Python-based GPIO mapping using the GPIO Zero library  
 - RetroPie setup supporting a wide range of consoles, including Nintendo DS  
 - RetroAchievements integration for in-game achievement tracking
