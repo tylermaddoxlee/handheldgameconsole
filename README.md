@@ -1,2 +1,3 @@
 # handheldgameconsole
-A handheld game console for running retro games inspired by Leandro Linares' own handheld device
+A portable Raspberry Pi–powered console with a custom 3D-printed enclosure, Python-based input mapping, and RetroPie integration.
+
