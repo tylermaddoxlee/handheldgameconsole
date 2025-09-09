@@ -1,0 +1,57 @@
+Copyright (c) by Leandro Linares (contact@leandrolinares.com)
+
+Grizzly DIY Handheld Game Console is licensed under the Creative Commons
+Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+--------------------------------------------------------------------------------
+LICENSE (CC BY-NC-SA 4.0)
+--------------------------------------------------------------------------------
+
+You are free to:
+
+- Share: Copy and redistribute the material in any medium or format.
+- Adapt: Remix, transform, and build upon the material.
+
+Under the following terms:
+
+1. Attribution: You must:
+  - Credit Leandro Linares as the original creator.
+  - Include a link to leandrolinares.com, tag on social networks, or link to the
+    YouTube channel (https://youtube.com/leandrolinares).
+  - Indicate if changes were made. You may do so in any reasonable manner, but
+    not in any way that suggests the licensor endorses you or your use.
+
+2. NonCommercial:
+  - You may not use the material for commercial purposes.
+
+3. ShareAlike:
+  - If you remix, transform, or build upon the material, you must distribute
+    your contributions under the same license as the original.
+
+
+Practical Application:
+
+1. When sharing or modifying these 3D printing files, you must:
+  - Clearly state that Leandro Linares is the original creator.
+  - Include a link to leandrolinares.com, tag on social networks, or link to the
+    YouTube channel (https://youtube.com/leandrolinares).
+  - Include a link to this license.
+  - Indicate if you made any modifications.
+  - Share any modifications under this same license.
+
+2. You cannot:
+  - Sell these files or any derivatives.
+  - Use these files or derivatives for commercial purposes.
+  - Share modifications under a different license.
+
+3. You can:
+  - Share your modifications freely (under this same license).
+  - Use the files for personal projects.
+  - Share the files on 3D printing websites (with proper attribution as
+    specified above).
+
+
+For the full legal text of this license, visit:
+  https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+
+For more information about this project, visit: https://leandrolinares.com
