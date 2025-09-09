@@ -19,3 +19,9 @@ Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4
   - On RetroPie → network transfer failed → switched to **FileZilla (FTP)** to transfer successfully  
 - Improved input handling using **GPIO Zero** since Adafruit Retrogame wasn’t compatible on 64-bit systems  
 
+## Tech Stack
+- Raspberry Pi 5  
+- RetroPie  
+- Python (GPIO Zero library)  
+- PiSugar 2 Pro battery  
+- 3D-printed enclosure
