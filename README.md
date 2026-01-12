@@ -1,6 +1,8 @@
 # Handheld Game Console
 This project is a custom-built handheld game console powered by a Raspberry Pi 5. Inspired by Leandro Linares’ DIY design, my version features a 3D-printed enclosure, Python-based GPIO input mapping, and RetroPie integration for multi-console emulation. The build supports custom button hardware, custom controller configuration, and RetroAchievements, creating a fully portable retro gaming experience.
 
+![image alt](https://github.com/tylermaddoxlee/handheldgameconsole/blob/76709ae30a4159d122621226fbd88ceea97aa4f1/handheld.jpg)
+
 ## Credits
 This project was inspired by [Leandro Linares’ DIY Handheld Game Console](https://leandrolinares.com/blog/diy-handheld-game-console/).  
 Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).  
